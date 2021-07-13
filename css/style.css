@@ -1,0 +1,45 @@
+.main-content{
+    width: 900px;
+    margin: auto;
+    padding-top: 40px;
+}
+
+
+.nav ul {
+    list-style: none;
+}
+.nav ul li{
+
+    display: inline;
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 4px;
+    background-color: blueviolet;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+.contact ul{
+    width: 205px;
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 5px ;
+    padding: 10px;
+    background-color:blueviolet ;
+}
+.contact ul li {
+    color: white;
+}
+
+h1 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-clint{
+    width: 340px;
+    height: 240px;
+    border-radius: 10px;
+}
